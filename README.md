@@ -27,6 +27,10 @@ Clion - IDE by JetBrains
 
 We used [Github](https://github.com/giladashe/flightSimulator) for version control.
 
+**YouTube link**
+
+https://youtu.be/ayCBY1DBoRc
+
 **Authors**
 
 Israel Shai and Gilad Asher.
